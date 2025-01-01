@@ -8,7 +8,7 @@
 
 A modern, elegant, and fully responsive coffee house website template. Perfect for cafes, coffee shops, and restaurants looking to establish a strong online presence.
 
-[View Demo](https://htmlpreview.github.io/?https://raw.githubusercontent.com/rajeswars/Coffee_Website/refs/heads/main/Coffee%20Website/index.html)
+[View Demo](https://htmlpreview.github.io/?https://raw.githubusercontent.com/rajeswars/Coffee_Website/refs/heads/main/Coffee%20Website/index.html) 🔗
 
 ## ✨ Features
 
