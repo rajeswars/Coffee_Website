@@ -10,13 +10,11 @@ A modern, elegant, and fully responsive coffee house website template. Perfect f
 
 [View Demo](https://htmlpreview.github.io/?https://raw.githubusercontent.com/rajeswars/Coffee_Website/refs/heads/main/Coffee%20Website/index.html)
 
-![Coffee House Preview](screenshot.jpg)
-
 ## ✨ Features
 
 - 🎯 Fully Responsive Design
 - 🛒 Online Ordering System
-- 📱 Mobile-First Approach
+- 📱 Web-Based Approach
 - 🎨 Modern UI/UX
 - 📝 Table Booking Form
 - 📍 Location Integration
@@ -29,7 +27,7 @@ A modern, elegant, and fully responsive coffee house website template. Perfect f
 git clone https://github.com/yourusername/coffee-house-website.git
 
 # Navigate to project folder
-cd coffee-house-website
+cd coffee_website
 
 # Open in browser
 # Simply open index.html in your preferred browser
@@ -38,14 +36,12 @@ cd coffee-house-website
 ## 📂 Project Structure
 
 ```
-coffee-house-website/
-├── index.html          # Main homepage
-├── assets/            
-│   ├── css/           # Stylesheets
-│   ├── js/            # JavaScript files
-│   └── images/        # Image assets
-├── pages/             # Additional pages
-└── README.md          # Project documentation
+coffee_website/
+├── index.html           # Main homepage            
+├── css                  # Stylesheets
+├── js                   # JavaScript files
+├── images               # Image assets             
+└── README.md            # Project documentation
 ```
 
 ## 🎯 Core Pages
@@ -67,7 +63,6 @@ coffee-house-website/
 
 ## 📱 Responsive Design
 
-- Mobile-first approach
 - Breakpoints for all devices
 - Fluid typography
 - Flexible images
@@ -76,12 +71,12 @@ coffee-house-website/
 
 1. **Download the Code**
    ```bash
-   git clone https://github.com/yourusername/coffee-house-website.git
+   git clone https://github.com/rajeswars/Coffee_Website.git
    ```
 
 2. **Navigate to Directory**
    ```bash
-   cd coffee-house-website
+   cd coffee_website
    ```
 
 3. **Launch Project**
@@ -92,18 +87,17 @@ coffee-house-website/
 
 1. **Content Updates**
    - Edit text in HTML files
-   - Replace images in `/assets/images`
+   - Replace images in `images`
    - Update menu items and prices
 
 2. **Styling**
-   - Main styles: `/assets/css/style.css`
+   - Main styles: `style.css`
    - Colors and typography variables at top of CSS
 
 ## 📞 Contact & Support
 
-- Phone: 000 (123) 456 7890
-- Address: 123 Main Street, Mountain View, San Francisco, USA
-- Hours: Monday-Friday, 8:00am - 9:00pm
+- Phone: +91 9443154592
+- Address: Coimbatore, TamilNadu
 
 ## 🤝 Contributing
 
